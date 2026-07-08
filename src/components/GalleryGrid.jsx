@@ -29,6 +29,7 @@ function Lightbox({ img, onClose }) {
               className="h-[60vh] w-full rounded-2xl object-cover"
             />
           </div>
+
         </div>
       </div>
     </div>

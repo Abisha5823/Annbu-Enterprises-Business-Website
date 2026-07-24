@@ -158,4 +158,39 @@ export const GALLERY_IMAGES = [
     alt: "RO Water Purifier Installation",
     category: "ro",
   },
+  {
+    src: "/gallery/solarnew14.jpeg",
+    alt: "Solar rooftop installation",
+    category: "solar",
+  },
+  {
+    src: "/gallery/solarnew15.jpeg",
+    alt: "Solar rooftop installation",
+    category: "solar",
+  },
+  {
+    src: "/gallery/solarnew16.jpeg",
+    alt: "Solar rooftop installation",
+    category: "solar",
+  },
+  {
+    src: "/gallery/solarnew17.jpeg",
+    alt: "Solar rooftop installation",
+    category: "solar",
+  },
+  {
+    src: "/gallery/solarnew18.jpeg",
+    alt: "Solar rooftop installation",
+    category: "solar",
+  },
+  {
+    src: "/gallery/solarnew19.jpeg",
+    alt: "Solar rooftop installation",
+    category: "solar",
+  },
+  {
+    src: "/gallery/solarnew20.jpeg",
+    alt: "Solar rooftop installation",
+    category: "solar",
+  }
 ];
